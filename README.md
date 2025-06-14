@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/arpitpateriya/leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/arpitpateriya/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/arpitpateriya/leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/arpitpateriya/leetcode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/arpitpateriya/leetcode/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arpitpateriya/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
