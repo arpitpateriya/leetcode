@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/arpitpateriya/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/arpitpateriya/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/arpitpateriya/leetcode/tree/master/0180-consecutive-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
