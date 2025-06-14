@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/arpitpateriya/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/arpitpateriya/leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/arpitpateriya/leetcode/tree/master/1452-restaurant-growth) |
+| [1480-movie-rating](https://github.com/arpitpateriya/leetcode/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/arpitpateriya/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/arpitpateriya/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/arpitpateriya/leetcode/tree/master/1670-patients-with-a-condition) |
