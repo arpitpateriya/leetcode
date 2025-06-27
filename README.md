@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/arpitpateriya/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitpateriya/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arpitpateriya/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 ## Database
 |  |
