@@ -165,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arpitpateriya/leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/arpitpateriya/leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/arpitpateriya/leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/arpitpateriya/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
