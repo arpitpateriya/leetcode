@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitpateriya/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/arpitpateriya/leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/arpitpateriya/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arpitpateriya/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [0120-triangle](https://github.com/arpitpateriya/leetcode/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
