@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arpitpateriya/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/arpitpateriya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arpitpateriya/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/arpitpateriya/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arpitpateriya/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Tree
