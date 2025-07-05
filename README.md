@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/arpitpateriya/leetcode/tree/master/0155-min-stack) |
+| [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
 | [0937-online-stock-span](https://github.com/arpitpateriya/leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arpitpateriya/leetcode/tree/master/0136-single-number) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
