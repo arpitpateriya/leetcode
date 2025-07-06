@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
