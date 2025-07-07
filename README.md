@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Trie
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitpateriya/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
 | ------- |
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
