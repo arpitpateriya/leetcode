@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitpateriya/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0088-merge-sorted-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
