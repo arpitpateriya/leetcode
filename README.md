@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arpitpateriya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arpitpateriya/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitpateriya/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arpitpateriya/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
+| [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0088-merge-sorted-array) |
