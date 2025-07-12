@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/arpitpateriya/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
