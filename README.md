@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/arpitpateriya/leetcode/tree/master/0052-n-queens-ii) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
