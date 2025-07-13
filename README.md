@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/arpitpateriya/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arpitpateriya/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arpitpateriya/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Depth-First Search
 |  |
