@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arpitpateriya/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitpateriya/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/arpitpateriya/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/arpitpateriya/leetcode/tree/master/0075-sort-colors) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitpateriya/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arpitpateriya/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/arpitpateriya/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/arpitpateriya/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
