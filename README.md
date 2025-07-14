@@ -49,7 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
-| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## String
 |  |
 | ------- |
@@ -108,7 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arpitpateriya/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
-| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arpitpateriya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/arpitpateriya/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0937-online-stock-span](https://github.com/arpitpateriya/leetcode/tree/master/0937-online-stock-span) |
@@ -263,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arpitpateriya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arpitpateriya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arpitpateriya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
@@ -309,7 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
-| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
