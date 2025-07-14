@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/arpitpateriya/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitpateriya/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -317,8 +319,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
+## Graph
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
