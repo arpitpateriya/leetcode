@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/arpitpateriya/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arpitpateriya/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
