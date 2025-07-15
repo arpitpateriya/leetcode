@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arpitpateriya/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/arpitpateriya/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/arpitpateriya/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitpateriya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arpitpateriya/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
