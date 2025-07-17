@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/arpitpateriya/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/arpitpateriya/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/arpitpateriya/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/arpitpateriya/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/arpitpateriya/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
