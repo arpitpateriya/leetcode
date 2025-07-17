@@ -48,7 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitpateriya/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/arpitpateriya/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
-| [0073-set-matrix-zeroes](https://github.com/arpitpateriya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/arpitpateriya/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
@@ -100,7 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
-| [0073-set-matrix-zeroes](https://github.com/arpitpateriya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/arpitpateriya/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/arpitpateriya/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -310,7 +308,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/arpitpateriya/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/arpitpateriya/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
-| [0073-set-matrix-zeroes](https://github.com/arpitpateriya/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
