@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/arpitpateriya/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/arpitpateriya/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/arpitpateriya/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/arpitpateriya/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arpitpateriya/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/arpitpateriya/leetcode/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/arpitpateriya/leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/arpitpateriya/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Sorting
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/arpitpateriya/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/arpitpateriya/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitpateriya/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Iterator
