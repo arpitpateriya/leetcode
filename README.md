@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/arpitpateriya/leetcode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
+| [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
