@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arpitpateriya/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/arpitpateriya/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/arpitpateriya/leetcode/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/arpitpateriya/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/arpitpateriya/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/arpitpateriya/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/arpitpateriya/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitpateriya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
