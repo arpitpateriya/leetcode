@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/arpitpateriya/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arpitpateriya/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/arpitpateriya/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/arpitpateriya/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/arpitpateriya/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/arpitpateriya/leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/arpitpateriya/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/arpitpateriya/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/arpitpateriya/leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/arpitpateriya/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/arpitpateriya/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/arpitpateriya/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/arpitpateriya/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0130-surrounded-regions](https://github.com/arpitpateriya/leetcode/tree/master/0130-surrounded-regions) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/arpitpateriya/leetcode/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/arpitpateriya/leetcode/tree/master/0130-surrounded-regions) |
 ## Graph
 |  |
 | ------- |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/arpitpateriya/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/arpitpateriya/leetcode/tree/master/0130-surrounded-regions) |
 ## Memoization
 |  |
 | ------- |
