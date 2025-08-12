@@ -8,5 +8,4 @@ class Solution {
     }
 
     return (ans < Integer.MIN_VALUE || ans > Integer.MAX_VALUE) ? 0 : (int) ans;
-  }
-}
+  
