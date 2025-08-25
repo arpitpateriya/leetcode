@@ -9,5 +9,5 @@ BEGIN
     SELECT MAX(salary) AS SecondHighestSalary
     FROM RankedEmployees
     WHERE `rank` = N
-  );
+  
 END
