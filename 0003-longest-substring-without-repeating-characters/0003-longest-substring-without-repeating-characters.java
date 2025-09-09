@@ -10,7 +10,7 @@ class Solution {
       while (count[s.charAt(r)] > 1)
         --count[s.charAt(l++)];
       ans = Math.max(ans, r - l + 1);
-    
+    }
 
     return ans;
   }
