@@ -37,9 +37,7 @@ class Solution {
         matrix[0][j] = 0;
 
     // Fill 0s for the first column if needed.
-    if (shouldFillFirstCol )
-
-    
+    if (shouldFillFirstCol)
       for (int i = 0; i < m; ++i)
         matrix[i][0] = 0;
   }
