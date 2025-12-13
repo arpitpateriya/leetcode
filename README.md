@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/arpitpateriya/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/arpitpateriya/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/arpitpateriya/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arpitpateriya/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/arpitpateriya/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/arpitpateriya/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/arpitpateriya/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arpitpateriya/leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/arpitpateriya/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/arpitpateriya/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/arpitpateriya/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/arpitpateriya/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/arpitpateriya/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arpitpateriya/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/arpitpateriya/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/arpitpateriya/leetcode/tree/master/0055-jump-game) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Stack
 |  |
