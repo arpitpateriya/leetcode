@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/arpitpateriya/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/arpitpateriya/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/arpitpateriya/leetcode/tree/master/0189-rotate-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arpitpateriya/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arpitpateriya/leetcode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arpitpateriya/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/arpitpateriya/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/arpitpateriya/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/arpitpateriya/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/arpitpateriya/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Iterator
 |  |
 | ------- |
