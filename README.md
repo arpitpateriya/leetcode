@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/arpitpateriya/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1002-find-common-characters](https://github.com/arpitpateriya/leetcode/tree/master/1002-find-common-characters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
 ## String
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/arpitpateriya/leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/arpitpateriya/leetcode/tree/master/0290-word-pattern) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/arpitpateriya/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1002-find-common-characters](https://github.com/arpitpateriya/leetcode/tree/master/1002-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/arpitpateriya/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/arpitpateriya/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arpitpateriya/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1002-find-common-characters](https://github.com/arpitpateriya/leetcode/tree/master/1002-find-common-characters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/arpitpateriya/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/arpitpateriya/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2483-task-scheduler-ii](https://github.com/arpitpateriya/leetcode/tree/master/2483-task-scheduler-ii) |
